@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\bin\Debug\ObjectStudent.exe.config
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\bin\Debug\ObjectStudent.exe
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\bin\Debug\ObjectStudent.pdb
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\obj\Debug\ObjectStudent.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\obj\Debug\ObjectStudent.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\obj\Debug\ObjectStudent.exe
+E:\Programing\Курси\Homework\Lesson_06\ObjectStudent\ObjectStudent\obj\Debug\ObjectStudent.pdb
