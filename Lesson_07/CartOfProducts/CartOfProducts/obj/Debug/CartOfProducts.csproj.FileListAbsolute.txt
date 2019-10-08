@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\bin\Debug\CartOfProducts.exe.config
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\bin\Debug\CartOfProducts.exe
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\bin\Debug\CartOfProducts.pdb
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\obj\Debug\CartOfProducts.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\obj\Debug\CartOfProducts.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\obj\Debug\CartOfProducts.exe
+E:\Programing\Курси\Homework\Lesson_07\CartOfProducts\CartOfProducts\obj\Debug\CartOfProducts.pdb
