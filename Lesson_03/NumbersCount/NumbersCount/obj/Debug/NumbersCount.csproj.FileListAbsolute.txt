@@ -1,0 +1,7 @@
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\bin\Debug\NumbersCount.exe.config
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\bin\Debug\NumbersCount.exe
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\bin\Debug\NumbersCount.pdb
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\obj\Debug\NumbersCount.csprojAssemblyReference.cache
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\obj\Debug\NumbersCount.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\obj\Debug\NumbersCount.exe
+E:\Programing\Курси\HomeWork\Lesson_03\NumbersCount\NumbersCount\obj\Debug\NumbersCount.pdb

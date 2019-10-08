@@ -1,0 +1,7 @@
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+E:\Programing\Курси\HomeWork\Lesson_03\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
