@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\bin\Debug\Discounts.exe.config
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\bin\Debug\Discounts.exe
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\bin\Debug\Discounts.pdb
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\obj\Debug\Discounts.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\obj\Debug\Discounts.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\obj\Debug\Discounts.exe
+E:\Programing\Курси\Homework\Lesson_02\Discounts\Discounts\obj\Debug\Discounts.pdb

@@ -1,0 +1,14 @@
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\bin\Debug\BeerPurchasing.exe.config
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\bin\Debug\BeerPurchasing.exe
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\bin\Debug\BeerPurchasing.pdb
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.csprojAssemblyReference.cache
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.csproj.CoreCompileInputs.cache
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.exe
+E:\Назар\Курси\HomeWork\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.pdb
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\bin\Debug\BeerPurchasing.exe.config
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\bin\Debug\BeerPurchasing.exe
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\bin\Debug\BeerPurchasing.pdb
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.exe
+E:\Programing\Курси\Homework\Lesson_02\BeerPurchasing\BeerPurchasing\obj\Debug\BeerPurchasing.pdb
