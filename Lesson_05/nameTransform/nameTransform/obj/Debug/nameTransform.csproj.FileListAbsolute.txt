@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\bin\Debug\nameTransform.exe.config
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\bin\Debug\nameTransform.exe
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\bin\Debug\nameTransform.pdb
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\obj\Debug\nameTransform.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\obj\Debug\nameTransform.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\obj\Debug\nameTransform.exe
+E:\Programing\Курси\Homework\Lesson_05\nameTransform\nameTransform\obj\Debug\nameTransform.pdb

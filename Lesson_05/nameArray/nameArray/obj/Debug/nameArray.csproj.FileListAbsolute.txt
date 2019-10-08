@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\obj\Debug\nameArray.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\obj\Debug\nameArray.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\bin\Debug\nameArray.exe.config
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\bin\Debug\nameArray.exe
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\bin\Debug\nameArray.pdb
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\obj\Debug\nameArray.exe
+E:\Programing\Курси\Homework\Lesson_05\nameArray\nameArray\obj\Debug\nameArray.pdb

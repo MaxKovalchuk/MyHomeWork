@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\bin\Debug\DOG(improved).exe.config
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\bin\Debug\DOG(improved).exe
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\bin\Debug\DOG(improved).pdb
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\obj\Debug\DOG(improved).csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\obj\Debug\DOG(improved).csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\obj\Debug\DOG(improved).exe
+E:\Programing\Курси\Homework\Lesson_05\DOG(improved)\DOG(improved)\obj\Debug\DOG(improved).pdb
