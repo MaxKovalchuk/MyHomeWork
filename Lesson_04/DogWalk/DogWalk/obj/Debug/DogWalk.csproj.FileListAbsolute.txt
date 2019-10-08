@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\bin\Debug\DogWalk.exe.config
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\bin\Debug\DogWalk.exe
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\bin\Debug\DogWalk.pdb
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\obj\Debug\DogWalk.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\obj\Debug\DogWalk.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\obj\Debug\DogWalk.exe
+E:\Programing\Курси\Homework\Lesson_04\DogWalk\DogWalk\obj\Debug\DogWalk.pdb

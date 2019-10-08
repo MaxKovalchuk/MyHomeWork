@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\bin\Debug\Months.exe.config
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\bin\Debug\Months.exe
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\bin\Debug\Months.pdb
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\obj\Debug\Months.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\obj\Debug\Months.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\obj\Debug\Months.exe
+E:\Programing\Курси\Homework\Lesson_04\Months\Months\obj\Debug\Months.pdb

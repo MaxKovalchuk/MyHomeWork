@@ -1,0 +1,7 @@
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\bin\Debug\CopyArray.exe.config
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\bin\Debug\CopyArray.exe
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\bin\Debug\CopyArray.pdb
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\obj\Debug\CopyArray.csprojAssemblyReference.cache
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\obj\Debug\CopyArray.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\obj\Debug\CopyArray.exe
+E:\Programing\Курси\Homework\Lesson_04\CopyArray\CopyArray\obj\Debug\CopyArray.pdb
