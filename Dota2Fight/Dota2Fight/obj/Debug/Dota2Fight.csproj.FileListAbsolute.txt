@@ -1,0 +1,7 @@
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\bin\Debug\Dota2Fight.exe.config
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\bin\Debug\Dota2Fight.exe
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\bin\Debug\Dota2Fight.pdb
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\obj\Debug\Dota2Fight.csprojAssemblyReference.cache
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\obj\Debug\Dota2Fight.csproj.CoreCompileInputs.cache
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\obj\Debug\Dota2Fight.exe
+E:\Programing\Курси\MyHomeWork\Dota2Fight\Dota2Fight\obj\Debug\Dota2Fight.pdb
