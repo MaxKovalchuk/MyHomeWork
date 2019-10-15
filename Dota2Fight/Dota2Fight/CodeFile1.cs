@@ -23,11 +23,7 @@ class Dota2
         Fight fight2 = new Fight(sven, terrorblade);
         Fight fight3 = new Fight(terrorblade, necrophos);
 
-        int key1, key2;
-        /*Inventory svenInventory = new Inventory();
-        Inventory necrophosInventory = new Inventory();
-        Sven sven = new Sven(50, 33, 28, 2000, 10, "Sven", "strength", svenInventory);
-        Necrophos necrophos = new Necrophos(40, 30, 58, 1780, 8, "Necrophos", "intelligence", necrophosInventory);
+        /*
         sven.getInfo();
         necrophos.getInfo();
         svenInventory.buyItem(item4, sven);
@@ -36,116 +32,20 @@ class Dota2
         necrophosInventory.buyItem(item5, necrophos);
         sven.getInfo();
         necrophos.getInfo();
-        Fight fight1 = new Fight(sven, necrophos);
-        fight1.fight();*/
+        fight1.fight();
+        */
+        
 
-        do
-        {
-            Console.WriteLine("Choose an action to do : \n 1 - open shop; 2 - start battle, 0 - close the program");
-            key1 = Convert.ToInt32(Console.ReadLine());
 
-            switch (key1)
-            {
-                case 1:
-                    Console.WriteLine("Shop : choose an action : \n 1 - buy item; 2 - sell item" +
-                        ", 0 - go to the previous menu.");
-                    do
-                    {
-                        key2 = Convert.ToInt32(Console.ReadLine());
-                        switch (key2)
-                        {
-                            case 1:
-                                do
-                                {
-                                    key2 = Convert.ToInt32(Console.ReadLine());
-                                    Console.WriteLine("Chose item from the list Monkey King Bar, Divine Rapier, " +
-                                        " Aghanim's Scepter, " + 
-                                        "Daedalus, Shiva's Guard, Diffusal Blade, Heart of Tarrasque, Crimson Guard");
-                                    switch (key2)
-                                    {
-                                        case 1:
-
-                                            break;
-                                        case 2:
-
-                                            break;
-                                        case 3:
-
-                                            break;
-                                        case 4:
-
-                                            break;
-                                        case 5:
-
-                                            break;
-                                        case 6:
-
-                                            break;
-                                        case 7:
-
-                                            break;
-                                        case 8:
-
-                                            break;
-                                        default:
-                                            Console.WriteLine("Choose corect number please!");
-                                            break;
-                                    }
-                                } while (key2 != 0);
-                                break;
-                            case 2:
-                                do
-                                {
-                                    key2 = Convert.ToInt32(Console.ReadLine());
-                                    switch (key2)
-                                    {
-                                        case 1:
-
-                                            break;
-                                        case 2:
-
-                                            break;
-                                        default:
-                                            Console.WriteLine("Choose corect number please!");
-                                            break;
-                                    }
-                                } while (key2 != 0);
-                                break;
-                            default:
-                                Console.WriteLine("Choose corect number please!");
-                                break;
-                        }
-                    } while (key2 != 0);
-                    break;
-                case 2:
-                    Console.WriteLine("Battle : 1 - Sven vs Necrophos, 2 - Sven - vs Terrorblade, 3" +
-                        " - Terrorblade vs Necrophos, 0 - go to the previous menu.");
-                    do
-                    {
-                        key2 = Convert.ToInt32(Console.ReadLine());
-                        switch (key2)
-                        {
-                            case 1:
-                                fight1.fight();
-                                break;
-                            case 2:
-                                fight2.fight();
-                                break;
-                            case 3:
-                                fight3.fight();
-                                break;
-                            default:
-                                Console.WriteLine("Choose corect number please!");
-                                break;
-                        }
-                    } while (key2 != 0);
-                    break;
-                default:
-                    Console.WriteLine("Choose corect number please!");
-                    break;
-            }
-        } while (key1 != 0);
-
+        terrorblade.getInfo();
+        necrophos.getInfo();
+        terrorbladeInventory.buyItem(item2, terrorblade);
+        terrorbladeInventory.buyItem(item7, terrorblade);
+        necrophosInventory.buyItem(item1, necrophos);
+        terrorblade.getInfo();
+        necrophos.getInfo();
+        fight3.fight();
+        
 
         Console.ReadKey();
     }
@@ -274,7 +174,6 @@ class Inventory
                 }
             }
             goldAmount -= item.getItemCost();
-            Console.WriteLine("\n" + getGold());
 
             if (item.getName() == "Monkey King Bar")
             {
@@ -391,10 +290,11 @@ class Fight
 
     public void fight()
     {
+        Console.WriteLine("Fight!");
         while (firstHero.getHP() > 0 & secondHero.getHP() > 0)
         {
             int temp1 = firstHero.getHP() - secondHero.getStrikePower() * (100 - firstHero.getArmor()) / 100;
-            int temp2 = firstHero.getHP() - secondHero.getStrikePower() * (100 - firstHero.getArmor()) / 100;
+            int temp2 = secondHero.getHP() - firstHero.getStrikePower() * (100 - secondHero.getArmor()) / 100;
             firstHero.setHP(temp1);
             secondHero.setHP(temp2);
             firstHero.getInfo();
